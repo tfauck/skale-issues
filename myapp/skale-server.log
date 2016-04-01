@@ -1,0 +1,842 @@
+## Started Wed Mar 30 2016 11:15:09 GMT-0400 (EDT)
+## Listening TCP on 12346
+## Listening WebSocket on 12348
+worker controller ready
+## Connect tcp ::ffff:127.0.0.1 54566
+## Connect worker-controller 3 317ddcc0-f68a-11e5-bc60-33d7debfc0de
+## Connect tcp ::ffff:127.0.0.1 54568
+## Connect worker 4 319d2490-f68a-11e5-bc60-33d7debfc0de
+id: 4, uuid: 319d2490-f68a-11e5-bc60-33d7debfc0de
+## Connect tcp ::ffff:127.0.0.1 54570
+## Connect worker 5 319f4770-f68a-11e5-bc60-33d7debfc0de
+id: 5, uuid: 319f4770-f68a-11e5-bc60-33d7debfc0de
+## Connect tcp ::ffff:127.0.0.1 54572
+## Close: {"address":"::ffff:127.0.0.1","family":"IPv6","port":54572}
+## Connect tcp ::ffff:127.0.0.1 54574
+## Connect master 7 31f4ba70-f68a-11e5-bc60-33d7debfc0de
+## Close: master 7 31f4ba70-f68a-11e5-bc60-33d7debfc0de
+## Close: worker 4 319d2490-f68a-11e5-bc60-33d7debfc0de
+## Close: worker 5 319f4770-f68a-11e5-bc60-33d7debfc0de
+[31791 worker.js:72 ?] "remove /tmp/skale/cf2fdf8e-7b81-4231-9cab-9a75fc7b7f2d"
+worker pid 31800 exited: 0
+worker pid 31805 exited: 0
+## Connect tcp ::ffff:127.0.0.1 54576
+## Connect worker 8 32125490-f68a-11e5-bc60-33d7debfc0de
+id: 8, uuid: 32125490-f68a-11e5-bc60-33d7debfc0de
+## Connect tcp ::ffff:127.0.0.1 54578
+## Connect worker 9 32138d10-f68a-11e5-bc60-33d7debfc0de
+id: 9, uuid: 32138d10-f68a-11e5-bc60-33d7debfc0de
+## Connect tcp ::ffff:127.0.0.1 54580
+## Connect master 10 37972440-f68a-11e5-bc60-33d7debfc0de
+## Connect tcp ::ffff:127.0.0.1 54582
+## Connect worker 11 37b49750-f68a-11e5-bc60-33d7debfc0de
+id: 11, uuid: 37b49750-f68a-11e5-bc60-33d7debfc0de
+## Connect tcp ::ffff:127.0.0.1 54584
+## Connect worker 12 37b5a8c0-f68a-11e5-bc60-33d7debfc0de
+id: 12, uuid: 37b5a8c0-f68a-11e5-bc60-33d7debfc0de
+[31786 server.js:236 sigterm] "terminated, exit"
+## Started Wed Mar 30 2016 11:28:11 GMT-0400 (EDT)
+## Listening TCP on 12346
+## Listening WebSocket on 12348
+worker controller ready
+## Connect tcp ::ffff:127.0.0.1 54594
+## Connect worker-controller 3 038bdc20-f68c-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54596
+## Connect worker 4 03a99d50-f68c-11e5-afc1-731d1e310c0d
+id: 4, uuid: 03a99d50-f68c-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54598
+## Connect worker 5 03ab23f0-f68c-11e5-afc1-731d1e310c0d
+id: 5, uuid: 03ab23f0-f68c-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54600
+## Close: {"address":"::ffff:127.0.0.1","family":"IPv6","port":54600}
+## Connect tcp ::ffff:127.0.0.1 54602
+## Connect master 7 04018150-f68c-11e5-afc1-731d1e310c0d
+## Close: master 7 04018150-f68c-11e5-afc1-731d1e310c0d
+## Close: worker 4 03a99d50-f68c-11e5-afc1-731d1e310c0d
+## Close: worker 5 03ab23f0-f68c-11e5-afc1-731d1e310c0d
+[31990 worker.js:72 ?] "remove /tmp/skale/531f99b1-a1e6-4031-bd6c-8d79cc9c0506"
+worker pid 31999 exited: 0
+worker pid 32004 exited: 0
+## Connect tcp ::ffff:127.0.0.1 54604
+## Connect worker 8 041f1b70-f68c-11e5-afc1-731d1e310c0d
+id: 8, uuid: 041f1b70-f68c-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54606
+## Connect worker 9 04218c70-f68c-11e5-afc1-731d1e310c0d
+id: 9, uuid: 04218c70-f68c-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54608
+## Close: {"address":"::ffff:127.0.0.1","family":"IPv6","port":54608}
+## Connect tcp ::ffff:127.0.0.1 54610
+## Close: {"address":"::ffff:127.0.0.1","family":"IPv6","port":54610}
+## Connect tcp ::ffff:127.0.0.1 54612
+## Connect master 12 25cd1600-f68c-11e5-afc1-731d1e310c0d
+## Close: master 12 25cd1600-f68c-11e5-afc1-731d1e310c0d
+[31990 worker.js:72 ?] "remove /tmp/skale/c825b6a6-214b-499e-9d18-1de507b38bd5"
+## Close: worker 9 04218c70-f68c-11e5-afc1-731d1e310c0d
+worker pid 32027 exited: 0
+## Close: worker 8 041f1b70-f68c-11e5-afc1-731d1e310c0d
+worker pid 32026 exited: 0
+## Connect tcp ::ffff:127.0.0.1 54614
+## Connect worker 13 25eab020-f68c-11e5-afc1-731d1e310c0d
+id: 13, uuid: 25eab020-f68c-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54616
+## Connect worker 14 25ec0fb0-f68c-11e5-afc1-731d1e310c0d
+id: 14, uuid: 25ec0fb0-f68c-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54618
+## Close: {"address":"::ffff:127.0.0.1","family":"IPv6","port":54618}
+## Connect tcp ::ffff:127.0.0.1 54620
+## Connect master 16 2ceafc40-f68c-11e5-afc1-731d1e310c0d
+## Close: master 16 2ceafc40-f68c-11e5-afc1-731d1e310c0d
+[31990 worker.js:72 ?] "remove /tmp/skale/9ef44d03-f05a-4e0a-af79-f09413eb1bd2"
+## Close: worker 13 25eab020-f68c-11e5-afc1-731d1e310c0d
+## Close: worker 14 25ec0fb0-f68c-11e5-afc1-731d1e310c0d
+worker pid 32089 exited: 0
+worker pid 32090 exited: 0
+## Connect tcp ::ffff:127.0.0.1 54622
+## Connect tcp ::ffff:127.0.0.1 54624
+## Connect worker 17 2d0959b0-f68c-11e5-afc1-731d1e310c0d
+## Connect worker 18 2d0959b1-f68c-11e5-afc1-731d1e310c0d
+id: 17, uuid: 2d0959b0-f68c-11e5-afc1-731d1e310c0d
+id: 18, uuid: 2d0959b1-f68c-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54626
+## Close: {"address":"::ffff:127.0.0.1","family":"IPv6","port":54626}
+## Connect tcp ::ffff:127.0.0.1 54628
+## Connect master 20 340734d0-f68c-11e5-afc1-731d1e310c0d
+## Close: master 20 340734d0-f68c-11e5-afc1-731d1e310c0d
+[31990 worker.js:72 ?] "remove /tmp/skale/e547f949-9d51-42d4-8ae1-c6599679133a"
+## Close: worker 17 2d0959b0-f68c-11e5-afc1-731d1e310c0d
+## Close: worker 18 2d0959b1-f68c-11e5-afc1-731d1e310c0d
+worker pid 32128 exited: 0
+worker pid 32129 exited: 0
+## Connect tcp ::ffff:127.0.0.1 54630
+## Connect worker 21 34236f60-f68c-11e5-afc1-731d1e310c0d
+id: 21, uuid: 34236f60-f68c-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54632
+## Connect worker 22 34251d10-f68c-11e5-afc1-731d1e310c0d
+id: 22, uuid: 34251d10-f68c-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54634
+## Close: {"address":"::ffff:127.0.0.1","family":"IPv6","port":54634}
+## Connect tcp ::ffff:127.0.0.1 54636
+## Connect worker-controller 24 3e237c10-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54638
+## Connect master 25 3e263b30-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54640
+## Connect worker 26 3e5c8d70-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54642
+## Connect tcp ::ffff:127.0.0.1 54643
+## Connect worker 28 3e5ed760-f68e-11e5-afc1-731d1e310c0d
+## Connect worker 27 3e5ed761-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54646
+## Connect worker 29 3e6259d0-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54648
+## Connect worker 30 3e639250-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54650
+## Connect worker 31 3e640780-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54652
+## Connect worker 32 3e64a3c0-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54654
+## Connect worker 33 3e6518f0-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54656
+## Connect worker 34 3e662a60-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54658
+## Connect worker 35 3e682630-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54660
+## Connect tcp ::ffff:127.0.0.1 54662
+## Connect worker 36 3e68e980-f68e-11e5-afc1-731d1e310c0d
+## Connect worker 37 3e68e981-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54664
+## Connect tcp ::ffff:127.0.0.1 54666
+## Connect worker 38 3e6937a0-f68e-11e5-afc1-731d1e310c0d
+## Connect worker 39 3e6937a1-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54668
+## Connect worker 40 3e69d3e0-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54670
+## Connect worker 41 3e6c1dd0-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54672
+## Connect worker 42 3e961400-f68e-11e5-afc1-731d1e310c0d
+id: 42, uuid: 3e961400-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54674
+## Connect worker 43 3e9e2a50-f68e-11e5-afc1-731d1e310c0d
+id: 43, uuid: 3e9e2a50-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54676
+## Connect worker 44 3eac8230-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54678
+## Connect worker 45 3eb84200-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54680
+## Connect worker 46 3eba3dd0-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54682
+## Connect tcp ::ffff:127.0.0.1 54684
+## Connect worker 47 3ebc87c0-f68e-11e5-afc1-731d1e310c0d
+## Connect worker 48 3ebcaed0-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54686
+## Connect tcp ::ffff:127.0.0.1 54688
+## Connect worker 49 3ec0cd80-f68e-11e5-afc1-731d1e310c0d
+## Connect worker 50 3ec0f490-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54690
+## Connect worker 51 3ec31770-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54692
+## Connect tcp ::ffff:127.0.0.1 54694
+## Connect worker 52 3ec75d30-f68e-11e5-afc1-731d1e310c0d
+## Connect worker 53 3ec78440-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54696
+## Connect worker 54 3ec9f540-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54698
+## Connect worker 55 3ecba2f0-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54700
+## Connect tcp ::ffff:127.0.0.1 54702
+## Connect worker 56 3eccb460-f68e-11e5-afc1-731d1e310c0d
+## Connect worker 57 3eccb461-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54704
+## Connect worker 58 3ecd50a0-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54706
+## Connect worker 59 3ed084f0-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54708
+## Connect master 60 5ab39ec0-f691-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54710
+## Connect worker 61 5b034560-f691-11e5-afc1-731d1e310c0d
+id: 61, uuid: 5b034560-f691-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54712
+## Connect worker 62 5b17b7c0-f691-11e5-afc1-731d1e310c0d
+id: 62, uuid: 5b17b7c0-f691-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54714
+## Connect worker 63 5b321d90-f691-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54716
+## Connect worker 64 5b3cf300-f691-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54718
+## Connect worker 65 5b507b00-f691-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54720
+## Connect worker 66 5b5e36a0-f691-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54722
+## Connect worker 67 5b61b910-f691-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54724
+## Connect worker 68 5b633fb0-f691-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54726
+## Connect worker 69 5b65fed0-f691-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54728
+## Connect worker 70 5b6dc700-f691-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54730
+## Connect worker 71 5b70d440-f691-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54732
+## Connect worker 72 5b814f00-f691-11e5-afc1-731d1e310c0d
+## Close: master 60 5ab39ec0-f691-11e5-afc1-731d1e310c0d
+[31990 worker.js:72 ?] "remove /tmp/skale/07e52833-a498-47ed-be04-7f0963bce878"
+## Close: worker 50 3ec0f490-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 43 3e9e2a50-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 52 3ec75d30-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 56 3eccb460-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 47 3ebc87c0-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 49 3ec0cd80-f68e-11e5-afc1-731d1e310c0d
+worker pid 32438 exited: 0
+## Close: worker 45 3eb84200-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 53 3ec78440-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 59 3ed084f0-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 58 3ecd50a0-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 57 3eccb461-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 51 3ec31770-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 54 3ec9f540-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 46 3eba3dd0-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 48 3ebcaed0-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 44 3eac8230-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 42 3e961400-f68e-11e5-afc1-731d1e310c0d
+worker pid 32432 exited: 0
+## Close: worker 55 3ecba2f0-f68e-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54734
+## Close: {"address":"::ffff:127.0.0.1","family":"IPv6","port":54734}
+## Connect tcp ::ffff:127.0.0.1 54736
+## Connect master 74 75505d40-f691-11e5-afc1-731d1e310c0d
+## Close: master 25 3e263b30-f68e-11e5-afc1-731d1e310c0d
+[31990 worker.js:72 ?] "remove /tmp/skale/d3483eeb-9d3e-483b-b542-2a6702d98c29"
+## Close: worker 40 3e69d3e0-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 36 3e68e980-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 41 3e6c1dd0-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 21 34236f60-f68c-11e5-afc1-731d1e310c0d
+worker pid 32167 exited: 0
+## Close: worker 32 3e64a3c0-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 22 34251d10-f68c-11e5-afc1-731d1e310c0d
+## Close: worker 38 3e6937a0-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 30 3e639250-f68e-11e5-afc1-731d1e310c0d
+worker pid 32172 exited: 0
+## Close: worker 35 3e682630-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 31 3e640780-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 33 3e6518f0-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 29 3e6259d0-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 37 3e68e981-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 39 3e6937a1-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 34 3e662a60-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 26 3e5c8d70-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 28 3e5ed760-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 27 3e5ed761-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 72 5b814f00-f691-11e5-afc1-731d1e310c0d
+## Close: worker 70 5b6dc700-f691-11e5-afc1-731d1e310c0d
+## Close: worker 69 5b65fed0-f691-11e5-afc1-731d1e310c0d
+## Close: worker-controller 24 3e237c10-f68e-11e5-afc1-731d1e310c0d
+## Close: worker 66 5b5e36a0-f691-11e5-afc1-731d1e310c0d
+## Close: worker 71 5b70d440-f691-11e5-afc1-731d1e310c0d
+## Close: worker 63 5b321d90-f691-11e5-afc1-731d1e310c0d
+## Close: worker 68 5b633fb0-f691-11e5-afc1-731d1e310c0d
+## Close: worker 67 5b61b910-f691-11e5-afc1-731d1e310c0d
+## Close: worker 65 5b507b00-f691-11e5-afc1-731d1e310c0d
+## Close: worker 64 5b3cf300-f691-11e5-afc1-731d1e310c0d
+## Close: master 74 75505d40-f691-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54738
+## Close: {"address":"::ffff:127.0.0.1","family":"IPv6","port":54738}
+## Connect tcp ::ffff:127.0.0.1 54740
+## Connect master 76 e367c6d0-f694-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54742
+## Connect worker 77 e385fd30-f694-11e5-afc1-731d1e310c0d
+id: 77, uuid: e385fd30-f694-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54744
+## Connect worker 78 e386e790-f694-11e5-afc1-731d1e310c0d
+id: 78, uuid: e386e790-f694-11e5-afc1-731d1e310c0d
+## Close: master 76 e367c6d0-f694-11e5-afc1-731d1e310c0d
+[31990 worker.js:72 ?] "remove /tmp/skale/e33fffc9-25d1-49dc-a040-58111a18d935"
+worker pid 32663 exited: 0
+## Close: worker 61 5b034560-f691-11e5-afc1-731d1e310c0d
+worker pid 32665 exited: 0
+## Close: worker 62 5b17b7c0-f691-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54746
+## Connect worker-controller 79 c80087c0-f715-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54748
+## Connect master 80 c8031fd0-f715-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54750
+## Connect worker 81 c8372820-f715-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54752
+## Connect worker 82 c83c5840-f715-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54754
+## Connect worker 83 c83db7d0-f715-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54756
+## Connect worker 84 c83f8c90-f715-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54758
+## Connect worker 85 c8416150-f715-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54760
+## Connect worker 86 c8442070-f715-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54762
+## Connect worker 87 c84495a0-f715-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54764
+## Connect tcp ::ffff:127.0.0.1 54766
+## Connect worker 88 c8461c40-f715-11e5-afc1-731d1e310c0d
+## Connect worker 89 c8464350-f715-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54768
+## Connect tcp ::ffff:127.0.0.1 54770
+## Connect tcp ::ffff:127.0.0.1 54772
+## Connect worker 90 c84706a0-f715-11e5-afc1-731d1e310c0d
+## Connect worker 91 c84706a1-f715-11e5-afc1-731d1e310c0d
+## Connect worker 92 c8472db0-f715-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54774
+## Connect tcp ::ffff:127.0.0.1 54776
+## Connect worker 93 c8488d40-f715-11e5-afc1-731d1e310c0d
+## Connect worker 94 c8488d41-f715-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54778
+## Connect worker 95 c8499eb0-f715-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54780
+## Connect worker 96 c84b9a80-f715-11e5-afc1-731d1e310c0d
+module.js:341
+    throw err;
+    ^
+
+Error: Cannot find module '/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/worker.js'
+    at Function.Module._resolveFilename (module.js:339:15)
+    at Function.Module._load (module.js:290:25)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:142:18)
+    at node.js:939:3
+worker pid 926 exited: 1
+module.js:341
+    throw err;
+    ^
+
+Error: Cannot find module '/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/worker.js'
+    at Function.Module._resolveFilename (module.js:339:15)
+    at Function.Module._load (module.js:290:25)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:142:18)
+    at node.js:939:3
+worker pid 932 exited: 1
+## Connect tcp ::ffff:127.0.0.1 54782
+## Connect worker 97 c889dc00-f715-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54784
+## Connect worker 98 c88b89b0-f715-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54786
+## Connect worker 99 c88ff680-f715-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54788
+## Connect tcp ::ffff:127.0.0.1 54790
+## Connect worker 100 c8917d20-f715-11e5-afc1-731d1e310c0d
+## Connect worker 101 c891a430-f715-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54792
+## Connect tcp ::ffff:127.0.0.1 54794
+## Connect worker 102 c89303c0-f715-11e5-afc1-731d1e310c0d
+## Connect worker 103 c8932ad0-f715-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54796
+## Connect worker 104 c893c710-f715-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54798
+## Connect worker 105 c89574c0-f715-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54800
+## Connect tcp ::ffff:127.0.0.1 54802
+## Connect worker 106 c89a56c0-f715-11e5-afc1-731d1e310c0d
+## Connect worker 107 c89a56c1-f715-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54804
+## Connect tcp ::ffff:127.0.0.1 54806
+## Connect worker 109 c89c0470-f715-11e5-afc1-731d1e310c0d
+## Connect worker 108 c89c2b80-f715-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54808
+## Connect worker 110 c89f38c0-f715-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54810
+## Connect worker 111 c89fadf0-f715-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54812
+## Connect worker 112 c8a15ba0-f715-11e5-afc1-731d1e310c0d
+## Close: worker 106 c89a56c0-f715-11e5-afc1-731d1e310c0d
+## Close: worker 108 c89c2b80-f715-11e5-afc1-731d1e310c0d
+## Close: worker 98 c88b89b0-f715-11e5-afc1-731d1e310c0d
+## Close: worker-controller 79 c80087c0-f715-11e5-afc1-731d1e310c0d
+## Close: worker 97 c889dc00-f715-11e5-afc1-731d1e310c0d
+## Close: worker 103 c8932ad0-f715-11e5-afc1-731d1e310c0d
+## Close: worker 102 c89303c0-f715-11e5-afc1-731d1e310c0d
+## Close: worker 109 c89c0470-f715-11e5-afc1-731d1e310c0d
+## Close: worker 101 c891a430-f715-11e5-afc1-731d1e310c0d
+## Close: worker 107 c89a56c1-f715-11e5-afc1-731d1e310c0d
+## Close: worker 99 c88ff680-f715-11e5-afc1-731d1e310c0d
+## Close: worker 100 c8917d20-f715-11e5-afc1-731d1e310c0d
+## Close: worker 111 c89fadf0-f715-11e5-afc1-731d1e310c0d
+## Close: worker 104 c893c710-f715-11e5-afc1-731d1e310c0d
+## Close: worker 105 c89574c0-f715-11e5-afc1-731d1e310c0d
+## Close: worker 112 c8a15ba0-f715-11e5-afc1-731d1e310c0d
+## Close: worker 88 c8461c40-f715-11e5-afc1-731d1e310c0d
+## Close: worker 96 c84b9a80-f715-11e5-afc1-731d1e310c0d
+## Close: worker 110 c89f38c0-f715-11e5-afc1-731d1e310c0d
+## connection error
+Error: write EPIPE
+    at exports._errnoException (util.js:890:11)
+    at WriteWrap.afterWrite (net.js:769:14)
+## Close: worker 93 c8488d40-f715-11e5-afc1-731d1e310c0d
+## connection error
+Error: This socket is closed.
+    at Socket._writeGeneric (net.js:648:19)
+    at Socket._write (net.js:700:8)
+    at doWrite (_stream_writable.js:301:12)
+    at writeOrBuffer (_stream_writable.js:287:5)
+    at Socket.Writable.write (_stream_writable.js:215:11)
+    at Socket.write (net.js:626:40)
+    at handleClose (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:309:21)
+    at Socket.<anonymous> (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:331:3)
+    at emitNone (events.js:85:20)
+    at Socket.emit (events.js:179:7)
+## Close: worker 87 c84495a0-f715-11e5-afc1-731d1e310c0d
+## connection error
+Error: This socket is closed.
+    at Socket._writeGeneric (net.js:648:19)
+    at Socket._write (net.js:700:8)
+    at doWrite (_stream_writable.js:301:12)
+    at writeOrBuffer (_stream_writable.js:287:5)
+    at Socket.Writable.write (_stream_writable.js:215:11)
+    at Socket.write (net.js:626:40)
+    at handleClose (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:309:21)
+    at Socket.<anonymous> (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:331:3)
+    at emitNone (events.js:85:20)
+    at Socket.emit (events.js:179:7)
+## Close: worker 81 c8372820-f715-11e5-afc1-731d1e310c0d
+## connection error
+Error: This socket is closed.
+    at Socket._writeGeneric (net.js:648:19)
+    at Socket._write (net.js:700:8)
+    at doWrite (_stream_writable.js:301:12)
+    at writeOrBuffer (_stream_writable.js:287:5)
+    at Socket.Writable.write (_stream_writable.js:215:11)
+    at Socket.write (net.js:626:40)
+    at handleClose (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:309:21)
+    at Socket.<anonymous> (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:331:3)
+    at emitNone (events.js:85:20)
+    at Socket.emit (events.js:179:7)
+## Close: worker 82 c83c5840-f715-11e5-afc1-731d1e310c0d
+## connection error
+Error: This socket is closed.
+    at Socket._writeGeneric (net.js:648:19)
+    at Socket._write (net.js:700:8)
+    at doWrite (_stream_writable.js:301:12)
+    at writeOrBuffer (_stream_writable.js:287:5)
+    at Socket.Writable.write (_stream_writable.js:215:11)
+    at Socket.write (net.js:626:40)
+    at handleClose (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:309:21)
+    at Socket.<anonymous> (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:331:3)
+    at emitNone (events.js:85:20)
+    at Socket.emit (events.js:179:7)
+## Close: worker 86 c8442070-f715-11e5-afc1-731d1e310c0d
+## connection error
+Error: This socket is closed.
+    at Socket._writeGeneric (net.js:648:19)
+    at Socket._write (net.js:700:8)
+    at doWrite (_stream_writable.js:301:12)
+    at writeOrBuffer (_stream_writable.js:287:5)
+    at Socket.Writable.write (_stream_writable.js:215:11)
+    at Socket.write (net.js:626:40)
+    at handleClose (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:309:21)
+    at Socket.<anonymous> (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:331:3)
+    at emitNone (events.js:85:20)
+    at Socket.emit (events.js:179:7)
+## Close: worker 85 c8416150-f715-11e5-afc1-731d1e310c0d
+## connection error
+Error: This socket is closed.
+    at Socket._writeGeneric (net.js:648:19)
+    at Socket._write (net.js:700:8)
+    at doWrite (_stream_writable.js:301:12)
+    at writeOrBuffer (_stream_writable.js:287:5)
+    at Socket.Writable.write (_stream_writable.js:215:11)
+    at Socket.write (net.js:626:40)
+    at handleClose (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:309:21)
+    at Socket.<anonymous> (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:331:3)
+    at emitNone (events.js:85:20)
+    at Socket.emit (events.js:179:7)
+## Close: worker 90 c84706a0-f715-11e5-afc1-731d1e310c0d
+## connection error
+Error: This socket is closed.
+    at Socket._writeGeneric (net.js:648:19)
+    at Socket._write (net.js:700:8)
+    at doWrite (_stream_writable.js:301:12)
+    at writeOrBuffer (_stream_writable.js:287:5)
+    at Socket.Writable.write (_stream_writable.js:215:11)
+    at Socket.write (net.js:626:40)
+    at handleClose (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:309:21)
+    at Socket.<anonymous> (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:331:3)
+    at emitNone (events.js:85:20)
+    at Socket.emit (events.js:179:7)
+## Close: worker 91 c84706a1-f715-11e5-afc1-731d1e310c0d
+## connection error
+Error: This socket is closed.
+    at Socket._writeGeneric (net.js:648:19)
+    at Socket._write (net.js:700:8)
+    at doWrite (_stream_writable.js:301:12)
+    at writeOrBuffer (_stream_writable.js:287:5)
+    at Socket.Writable.write (_stream_writable.js:215:11)
+    at Socket.write (net.js:626:40)
+    at handleClose (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:309:21)
+    at Socket.<anonymous> (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:331:3)
+    at emitNone (events.js:85:20)
+    at Socket.emit (events.js:179:7)
+## Close: worker 84 c83f8c90-f715-11e5-afc1-731d1e310c0d
+## connection error
+Error: This socket is closed.
+    at Socket._writeGeneric (net.js:648:19)
+    at Socket._write (net.js:700:8)
+    at doWrite (_stream_writable.js:301:12)
+    at writeOrBuffer (_stream_writable.js:287:5)
+    at Socket.Writable.write (_stream_writable.js:215:11)
+    at Socket.write (net.js:626:40)
+    at handleClose (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:309:21)
+    at Socket.<anonymous> (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:331:3)
+    at emitNone (events.js:85:20)
+    at Socket.emit (events.js:179:7)
+## Close: worker 94 c8488d41-f715-11e5-afc1-731d1e310c0d
+## connection error
+Error: This socket is closed.
+    at Socket._writeGeneric (net.js:648:19)
+    at Socket._write (net.js:700:8)
+    at doWrite (_stream_writable.js:301:12)
+    at writeOrBuffer (_stream_writable.js:287:5)
+    at Socket.Writable.write (_stream_writable.js:215:11)
+    at Socket.write (net.js:626:40)
+    at handleClose (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:309:21)
+    at Socket.<anonymous> (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:331:3)
+    at emitNone (events.js:85:20)
+    at Socket.emit (events.js:179:7)
+## Close: worker 95 c8499eb0-f715-11e5-afc1-731d1e310c0d
+## connection error
+Error: This socket is closed.
+    at Socket._writeGeneric (net.js:648:19)
+    at Socket._write (net.js:700:8)
+    at doWrite (_stream_writable.js:301:12)
+    at writeOrBuffer (_stream_writable.js:287:5)
+    at Socket.Writable.write (_stream_writable.js:215:11)
+    at Socket.write (net.js:626:40)
+    at handleClose (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:309:21)
+    at Socket.<anonymous> (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:331:3)
+    at emitNone (events.js:85:20)
+    at Socket.emit (events.js:179:7)
+## Close: worker 92 c8472db0-f715-11e5-afc1-731d1e310c0d
+## connection error
+Error: This socket is closed.
+    at Socket._writeGeneric (net.js:648:19)
+    at Socket._write (net.js:700:8)
+    at doWrite (_stream_writable.js:301:12)
+    at writeOrBuffer (_stream_writable.js:287:5)
+    at Socket.Writable.write (_stream_writable.js:215:11)
+    at Socket.write (net.js:626:40)
+    at handleClose (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:309:21)
+    at Socket.<anonymous> (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:331:3)
+    at emitNone (events.js:85:20)
+    at Socket.emit (events.js:179:7)
+## Close: worker 83 c83db7d0-f715-11e5-afc1-731d1e310c0d
+## connection error
+Error: This socket is closed.
+    at Socket._writeGeneric (net.js:648:19)
+    at Socket._write (net.js:700:8)
+    at doWrite (_stream_writable.js:301:12)
+    at writeOrBuffer (_stream_writable.js:287:5)
+    at Socket.Writable.write (_stream_writable.js:215:11)
+    at Socket.write (net.js:626:40)
+    at handleClose (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:309:21)
+    at Socket.<anonymous> (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:331:3)
+    at emitNone (events.js:85:20)
+    at Socket.emit (events.js:179:7)
+## Close: worker 89 c8464350-f715-11e5-afc1-731d1e310c0d
+## connection error
+Error: This socket is closed.
+    at Socket._writeGeneric (net.js:648:19)
+    at Socket._write (net.js:700:8)
+    at doWrite (_stream_writable.js:301:12)
+    at writeOrBuffer (_stream_writable.js:287:5)
+    at Socket.Writable.write (_stream_writable.js:215:11)
+    at Socket.write (net.js:626:40)
+    at handleClose (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:309:21)
+    at Socket.<anonymous> (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:331:3)
+    at emitNone (events.js:85:20)
+    at Socket.emit (events.js:179:7)
+## connection error
+Error: This socket is closed.
+    at Socket._writeGeneric (net.js:648:19)
+    at Socket._write (net.js:700:8)
+    at doWrite (_stream_writable.js:301:12)
+    at writeOrBuffer (_stream_writable.js:287:5)
+    at Socket.Writable.write (_stream_writable.js:215:11)
+    at Socket.write (net.js:626:40)
+    at SwitchBoard._transform (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:85:17)
+    at SwitchBoard.Transform._read (_stream_transform.js:167:10)
+    at SwitchBoard.Transform._write (_stream_transform.js:155:12)
+    at doWrite (_stream_writable.js:301:12)
+[31985 server.js:231 uncaughtException] {}
+Error: This socket is closed.
+    at Socket._writeGeneric (net.js:648:19)
+    at Socket._write (net.js:700:8)
+    at doWrite (_stream_writable.js:301:12)
+    at writeOrBuffer (_stream_writable.js:287:5)
+    at Socket.Writable.write (_stream_writable.js:215:11)
+    at Socket.write (net.js:626:40)
+    at SwitchBoard._transform (/home/ubuntu/SKA/skale-cli/myapp/node_modules/skale-engine/bin/server.js:85:17)
+    at SwitchBoard.Transform._read (_stream_transform.js:167:10)
+    at SwitchBoard.Transform._write (_stream_transform.js:155:12)
+    at doWrite (_stream_writable.js:301:12)
+## Connect tcp ::ffff:127.0.0.1 54814
+## Connect tcp ::ffff:127.0.0.1 54816
+## Connect worker-controller 113 6578cec0-f718-11e5-afc1-731d1e310c0d
+## Connect master 114 6578f5d0-f718-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54818
+## Connect tcp ::ffff:127.0.0.1 54820
+## Connect worker 115 65b25550-f718-11e5-afc1-731d1e310c0d
+## Connect worker 116 65b27c60-f718-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54822
+## Connect tcp ::ffff:127.0.0.1 54824
+## Connect worker 117 65b42a10-f718-11e5-afc1-731d1e310c0d
+## Connect worker 118 65b45120-f718-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54826
+## Connect worker 119 65b8bdf0-f718-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54828
+## Connect worker 120 65bab9c0-f718-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54830
+## Connect worker 121 65bb5600-f718-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54832
+## Connect worker 122 65bc6770-f718-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54834
+## Connect worker 123 65bcb590-f718-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54836
+## Connect worker 124 65bd78e0-f718-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54838
+## Connect worker 125 65beff80-f718-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54840
+## Connect worker 126 65c08620-f718-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54842
+## Connect worker 127 65c1e5b0-f718-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54845
+## Connect tcp ::ffff:127.0.0.1 54844
+## Connect worker 129 65c34540-f718-11e5-afc1-731d1e310c0d
+## Connect worker 128 65c34541-f718-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54848
+## Connect worker 130 65c3e180-f718-11e5-afc1-731d1e310c0d
+## Close: worker 119 65b8bdf0-f718-11e5-afc1-731d1e310c0d
+## Close: worker-controller 113 6578cec0-f718-11e5-afc1-731d1e310c0d
+## Close: worker 118 65b45120-f718-11e5-afc1-731d1e310c0d
+## Close: worker 122 65bc6770-f718-11e5-afc1-731d1e310c0d
+## Close: worker 123 65bcb590-f718-11e5-afc1-731d1e310c0d
+## Close: worker 121 65bb5600-f718-11e5-afc1-731d1e310c0d
+## Close: worker 126 65c08620-f718-11e5-afc1-731d1e310c0d
+## Close: worker 116 65b27c60-f718-11e5-afc1-731d1e310c0d
+## Close: worker 117 65b42a10-f718-11e5-afc1-731d1e310c0d
+## Close: worker 128 65c34541-f718-11e5-afc1-731d1e310c0d
+## Close: worker 127 65c1e5b0-f718-11e5-afc1-731d1e310c0d
+## Close: worker 129 65c34540-f718-11e5-afc1-731d1e310c0d
+## Close: worker 130 65c3e180-f718-11e5-afc1-731d1e310c0d
+## Close: worker 120 65bab9c0-f718-11e5-afc1-731d1e310c0d
+## Close: worker 124 65bd78e0-f718-11e5-afc1-731d1e310c0d
+## Close: worker 115 65b25550-f718-11e5-afc1-731d1e310c0d
+## Close: master 114 6578f5d0-f718-11e5-afc1-731d1e310c0d
+## Close: worker 125 65beff80-f718-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54850
+## Connect worker-controller 131 ee46c7c0-f718-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54852
+## Connect master 132 ee489c80-f718-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54854
+## Connect worker 133 ee6f3750-f718-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54856
+## Connect worker 134 ee718140-f718-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54858
+## Connect worker 135 ee72b9c0-f718-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54860
+## Connect tcp ::ffff:127.0.0.1 54861
+## Connect worker 136 ee78ad30-f718-11e5-afc1-731d1e310c0d
+## Connect worker 137 ee78d440-f718-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54864
+## Connect worker 138 ee7cf2f0-f718-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54866
+## Connect worker 139 ee7d6820-f718-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54868
+## Connect worker 140 ee7d8f30-f718-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54870
+## Connect worker 141 ee8138b0-f718-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54872
+## Connect worker 142 ee82e660-f718-11e5-afc1-731d1e310c0d
+## Close: master 132 ee489c80-f718-11e5-afc1-731d1e310c0d
+## Connect tcp ::ffff:127.0.0.1 54874
+## Close: {"address":"::ffff:127.0.0.1","family":"IPv6","port":54874}
+## Connect tcp ::ffff:127.0.0.1 54876
+## Connect master 144 a8b42510-f72f-11e5-afc1-731d1e310c0d
+## Close: master 144 a8b42510-f72f-11e5-afc1-731d1e310c0d
+[31985 server.js:236 sigterm] "terminated, exit"
+## Started Thu Mar 31 2016 06:59:55 GMT-0400 (EDT)
+## Listening TCP on 12346
+## Listening WebSocket on 12348
+worker controller ready
+## Connect tcp ::ffff:127.0.0.1 54882
+## Connect worker-controller 3 b3ab4de0-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54884
+## Connect worker 4 b3c90f10-f72f-11e5-aa10-cb3092fb8331
+id: 4, uuid: b3c90f10-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54886
+## Connect worker 5 b3ca6ea0-f72f-11e5-aa10-cb3092fb8331
+id: 5, uuid: b3ca6ea0-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54888
+## Close: {"address":"::ffff:127.0.0.1","family":"IPv6","port":54888}
+## Connect tcp ::ffff:127.0.0.1 54890
+## Connect master 7 b42eaeb0-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54892
+## Connect worker 8 b44a25f0-f72f-11e5-aa10-cb3092fb8331
+id: 8, uuid: b44a25f0-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54894
+## Connect worker 9 b44c21c0-f72f-11e5-aa10-cb3092fb8331
+id: 9, uuid: b44c21c0-f72f-11e5-aa10-cb3092fb8331
+## Close: master 7 b42eaeb0-f72f-11e5-aa10-cb3092fb8331
+[2423 worker.js:72 ?] "remove /tmp/skale/9d39e0e2-c2f2-4b08-9d86-85a3a3945c63"
+## Close: worker 4 b3c90f10-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 5 b3ca6ea0-f72f-11e5-aa10-cb3092fb8331
+worker pid 2432 exited: 0
+worker pid 2437 exited: 0
+## Connect tcp ::ffff:127.0.0.1 54896
+## Close: {"address":"::ffff:127.0.0.1","family":"IPv6","port":54896}
+## Connect tcp ::ffff:127.0.0.1 54898
+## Connect worker-controller 11 fad00ad0-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54900
+## Connect master 12 fad2f100-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54902
+## Connect worker 13 fb087ff0-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54904
+## Connect worker 14 fb0c5080-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54906
+## Connect tcp ::ffff:127.0.0.1 54908
+## Connect worker 15 fb0e2540-f72f-11e5-aa10-cb3092fb8331
+## Connect worker 16 fb0e2541-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54910
+## Connect worker 17 fb0f84d0-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54912
+## Connect worker 18 fb1180a0-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54914
+## Connect worker 19 fb1466d0-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54916
+## Connect worker 20 fb14b4f0-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54918
+## Connect tcp ::ffff:127.0.0.1 54920
+## Connect worker 21 fb152a20-f72f-11e5-aa10-cb3092fb8331
+## Connect worker 22 fb152a21-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54922
+## Connect worker 23 fb15c660-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54924
+## Connect tcp ::ffff:127.0.0.1 54926
+## Connect tcp ::ffff:127.0.0.1 54928
+## Connect worker 24 fb163b90-f72f-11e5-aa10-cb3092fb8331
+## Connect worker 25 fb1689b0-f72f-11e5-aa10-cb3092fb8331
+## Connect worker 26 fb16b0c0-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54930
+## Connect worker 27 fb17c230-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54932
+## Connect worker 28 fb1a0c20-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54934
+## Connect worker 29 fb4d7830-f72f-11e5-aa10-cb3092fb8331
+id: 29, uuid: fb4d7830-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54936
+## Connect worker 30 fb505e60-f72f-11e5-aa10-cb3092fb8331
+id: 30, uuid: fb505e60-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54938
+## Connect worker 31 fb576340-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54940
+## Connect worker 32 fb59d440-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54942
+## Connect tcp ::ffff:127.0.0.1 54943
+## Connect worker 33 fb5cba70-f72f-11e5-aa10-cb3092fb8331
+## Connect worker 34 fb5ce180-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54946
+## Connect worker 35 fb5e8f30-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54948
+## Connect tcp ::ffff:127.0.0.1 54950
+## Connect worker 36 fb608b00-f72f-11e5-aa10-cb3092fb8331
+## Connect worker 37 fb60b210-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54952
+## Connect worker 38 fb64a9b0-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54954
+## Connect worker 39 fb687a40-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54956
+## Connect worker 40 fb68a150-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54958
+## Connect worker 41 fb6a9d20-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54960
+## Connect worker 42 fb6bae90-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54962
+## Connect worker 43 fb6f09f0-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54964
+## Connect worker 44 fb74af40-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54966
+## Connect worker 45 fb796a30-f72f-11e5-aa10-cb3092fb8331
+## Connect tcp ::ffff:127.0.0.1 54968
+## Connect worker 46 fb7a5490-f72f-11e5-aa10-cb3092fb8331
+## Close: master 12 fad2f100-f72f-11e5-aa10-cb3092fb8331
+[2423 worker.js:72 ?] "remove /tmp/skale/23c2d24a-cbb3-4293-8b03-8089b7c72c84"
+## Close: worker 15 fb0e2540-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 14 fb0c5080-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 27 fb17c230-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 17 fb0f84d0-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 18 fb1180a0-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 19 fb1466d0-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 16 fb0e2541-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 21 fb152a20-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 22 fb152a21-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 13 fb087ff0-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 25 fb1689b0-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 23 fb15c660-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 26 fb16b0c0-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 24 fb163b90-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 8 b44a25f0-f72f-11e5-aa10-cb3092fb8331
+worker pid 2459 exited: 0
+## Close: worker 20 fb14b4f0-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 28 fb1a0c20-f72f-11e5-aa10-cb3092fb8331
+worker pid 2460 exited: 0
+## Close: worker 9 b44c21c0-f72f-11e5-aa10-cb3092fb8331
+## Close: worker-controller 11 fad00ad0-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 34 fb5ce180-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 41 fb6a9d20-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 46 fb7a5490-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 42 fb6bae90-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 45 fb796a30-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 36 fb608b00-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 44 fb74af40-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 33 fb5cba70-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 38 fb64a9b0-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 40 fb68a150-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 39 fb687a40-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 37 fb60b210-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 43 fb6f09f0-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 31 fb576340-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 32 fb59d440-f72f-11e5-aa10-cb3092fb8331
+## Close: worker 35 fb5e8f30-f72f-11e5-aa10-cb3092fb8331
