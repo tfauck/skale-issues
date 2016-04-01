@@ -1,4 +1,4 @@
-# skale-examples
+# skale-issues
 Samples which are currently creating problems 
 When fixed they should move to skale-examples
 
